@@ -1,0 +1,18 @@
+{
+  "nogometasi": [
+    {
+      "id": 1,
+      "ime": "Luka Modrić",
+      "pozicija": "Vezni",
+      "godine": 37,
+      "slikaUrl": "https://i.imgur.com/1JbU2Gm.jpg"
+    },
+    {
+      "id": 2,
+      "ime": "Ivan Perišić",
+      "pozicija": "Krilo",
+      "godine": 34,
+      "slikaUrl": "https://i.imgur.com/r9PcVyt.jpg"
+    }
+  ]
+}
